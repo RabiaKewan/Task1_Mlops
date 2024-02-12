@@ -1,3 +1,8 @@
+![Screenshot 2024-02-12 112959](https://github.com/RabiaKewan/Task1_Mlops/assets/119858275/5ba2e5b1-ba5e-4d9d-8253-ad3ef9418068)
+![Screenshot 2024-02-12 112329](https://github.com/RabiaKewan/Task1_Mlops/assets/119858275/684cc5a2-d483-4323-b0ee-0125f8fca7a1)
+![Screenshot 2024-02-12 113720](https://github.com/RabiaKewan/Task1_Mlops/assets/119858275/6306b0a5-df57-4774-a4e3-9878e74c4220)
+![Screenshot 2024-02-12 111920](https://github.com/RabiaKewan/Task1_Mlops/assets/119858275/e8e515e1-3ec0-45a1-9718-af7d40b56380)
+
 # Task1_Mlops
 
 Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~

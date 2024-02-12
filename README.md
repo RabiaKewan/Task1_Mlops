@@ -79,4 +79,52 @@ Everything up-to-date
 
 Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops (dev)
 $ notepad readme.md
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops (dev)
+$ mkdir my_project
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops (dev)
+$ cd my_project
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ ^[[200~python3 -m venv venv
+bash: $'\E[200~python3': command not found
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ python3 -m venv venv
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ touch main.py
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ touch test.py
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ touch requirments.txt
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ git commit -m "initial commit"
+On branch dev
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   ../README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ./
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ git add .
+
+Rabia Kewan@LAPTOP-7F6HE65M MINGW64 ~/task1_Mlops/my_project (dev)
+$ git commit -m "initial commit"
+[dev c16f587] initial commit
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 my_project/main.py
+ create mode 100644 my_project/requirments.txt
+ create mode 100644 my_project/test.py
+
 
